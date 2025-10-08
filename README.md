@@ -8,7 +8,7 @@ A Streamlit dashboard that delivers one fresh intraday stock pick each morning, 
 
 ## Local Run
 
-1. git clone https://github.com/your-user/mangesh-ai-trade-console.git  
+1. git clone https://github.com/mangesh-ai-trade-console.git  
 2. cd mangesh-ai-trade-console  
 3. pip install -r requirements.txt  
 4. streamlit run app.py  
